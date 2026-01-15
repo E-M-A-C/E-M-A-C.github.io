@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Welcome to my site.
+Welcome (WIP)
 
 ## Publications
 ## About
