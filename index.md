@@ -1,10 +1,9 @@
 ---
 layout: home
-title: Home
 ---
 
 Welcome to my site.
 
-## Projects
+## Publications
 ## About
-Testing
+
